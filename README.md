@@ -10,7 +10,7 @@ This is the LITA's sales Performance analysis project. I am tasked with analyzin
 
 ### Data Sources
 
-This data was given to me to work on in my Ladies in Tech Academy class with Incubator Hub. The data had 8 columns and 50001 rows. The data used can be downloaded here: [downloadHere:](C:\Users\Emmanuel-Blessing\Downloads\Sales_data_LITA_CSV.csv)
+This data was given to me to work on in my Ladies in Tech Academy class with Incubator Hub. The data had 8 columns and 50001 rows. The data used can be downloaded here: [Here:](C:\Users\Emmanuel-Blessing\Downloads\Sales_data_LITA_CSV.csv)
 
 ### Tools used
 - Microsoft Excel for data cleaning and analysis.
