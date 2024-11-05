@@ -84,6 +84,21 @@ total revenue by region.
 
  ![LITA SQL 8](https://github.com/user-attachments/assets/26965420-447d-4e89-b03b-6a8ac430db87)
 
+ ## Data Visualisation using Power Bi
+
+ ### Data Preparation
+
+ 1. I connected my datasource to powerbi and transform on power query.
+ 2. I remove duplicate data and ensure data validation and consistency.
+ 3. I then loaded to PowerBI.
+ 4. I created some measures for my analysis.
+    
+### Key Questions
+
+- Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+
+![LITA POWERBI 1](https://github.com/user-attachments/assets/0b650361-2669-4b9d-9264-1f79460b3ac8)
+
 
 
 
