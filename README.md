@@ -10,7 +10,7 @@ This is the LITA's sales Performance analysis project. I am tasked with analyzin
 
 ### Data Sources
 
-This data was given to me to work on in my Ladies in Tech Academy class with Incubator Hub. The data had 8 columns and 50001 rows. The data used can be downloaded here: [Here:](C:\Users\Emmanuel-Blessing\Downloads\Sales_data_LITA_CSV.csv)
+This data was given to me to work on in my Ladies in Tech Academy class with Incubator Hub. The data had 8 columns and 50001 rows. 
 
 ### Tools used
 - Microsoft Excel for data cleaning and analysis.
@@ -18,7 +18,19 @@ This data was given to me to work on in my Ladies in Tech Academy class with Inc
 - Power Bi for Data Visualisation.
 - GitHub for portfolio building.
 
-  ### Data Analysis using Microsoft Excel
+## Data Analysis using Microsoft Excel
+
+### Data Preparation
+
+ 1. The dataset was loaded into Microsoft Excel.
+ 2. The data has duplicate and no missing values.
+ 3. I created an extra column for Sales/Revenue by multiplying my Quantity by UnitPrice.
+
+### Key Questions
+
+1. Perform an initial exploration of the sales data. Use pivot tables to summarize
+total sales by product, region, and month.
+
   
   
   
