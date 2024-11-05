@@ -33,7 +33,13 @@ total sales by product, region, and month.
 
 ![image](https://github.com/user-attachments/assets/7df57929-f817-40da-8bdb-3548c4c046c8)
 
-2. 
+2. Use Excel formulas to calculate metrics such as average sales per product and
+total revenue by region.
+
+![image](https://github.com/user-attachments/assets/a6cc670a-48b0-4490-867a-ba2c5d32a7e3)
+
+
+
 
 
   
