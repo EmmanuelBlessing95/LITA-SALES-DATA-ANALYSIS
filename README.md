@@ -31,6 +31,11 @@ This data was given to me to work on in my Ladies in Tech Academy class with Inc
 1. Perform an initial exploration of the sales data. Use pivot tables to summarize
 total sales by product, region, and month.
 
+![image](https://github.com/user-attachments/assets/7df57929-f817-40da-8bdb-3548c4c046c8)
+
+2. 
+
+
   
   
   
